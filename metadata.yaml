@@ -1,0 +1,56 @@
+_repo: The-nights-of-Straparola-volume-1-of-2_75257
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hughes, Edward Robert
+    alias: Hughes, E. R. (Edward Robert)
+    birthdate: 1851
+    deathdate: 1914
+    gutenberg_agent_id: '57906'
+    url: http://www.gutenberg.org/2009/agents/57906
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Robert_Hughes
+  translator:
+    agent_name: Waters, W. G. (William George)
+    alias: Waters, William George
+    birthdate: 1844
+    deathdate: 1928
+    gutenberg_agent_id: '8776'
+    url: http://www.gutenberg.org/2009/agents/8776
+creator:
+  author:
+    agent_name: Straparola, Giovanni Francesco
+    aliases:
+    - Straparola, Gian Francesco
+    - Straparola, Giovanfrancesco
+    - Straparola, Giovani Francesco
+    - Straparola, Giovan Francesco
+    - Straparole, J.-F. (Jean-François)
+    - Straparole, Jean-François
+    - Straparole, J.-F. (Jean-Francois)
+    gutenberg_agent_id: '57905'
+    url: http://www.gutenberg.org/2009/agents/57905
+    wikipedia: https://en.wikipedia.org/wiki/Giovanni_Francesco_Straparola
+description: 'Wikipedia page on this work: https://en.wikipedia.org/wiki/The_Facetious_Nights_of_Straparola'
+gutenberg_issued: '2025-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75257'
+language: en
+pgterms:marc904: https://archive.org/details/nightsofstraparo01stra/page/n8
+pgterms:marc905: 20190218042847straparola
+pgterms:marc906: '1894'
+pgterms:marc907: GB
+production_note: Richard Tonsing, Tim Lindell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aLondon :$bLawrence and Bullen, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tales -- Italy'
+- !lcsh 'Fairy tales -- Italy'
+- !lcc 'PQ'
+- GITenberg
+title: The nights of Straparola, volume 1 [of 2]
+url: http://www.gutenberg.org/ebooks/75257
