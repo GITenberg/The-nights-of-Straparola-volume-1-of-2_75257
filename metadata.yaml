@@ -16,6 +16,9 @@ contributor:
     deathdate: 1928
     gutenberg_agent_id: '8776'
     url: http://www.gutenberg.org/2009/agents/8776
+covers:
+- cover_type: archival
+  image_path: 75257-h/images/cover.jpg
 creator:
   author:
     agent_name: Straparola, Giovanni Francesco
@@ -31,6 +34,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57905
     wikipedia: https://en.wikipedia.org/wiki/Giovanni_Francesco_Straparola
 description: 'Wikipedia page on this work: https://en.wikipedia.org/wiki/The_Facetious_Nights_of_Straparola'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75257#The-nights-of-Straparola-volume-1-of-2
 gutenberg_issued: '2025-01-31'
 gutenberg_type: Text
 identifiers:
